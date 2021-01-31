@@ -96,6 +96,10 @@
   ```
   php bin/magento module:disable Magento_TwoFactorAuth
   ```
+  30. Now Follow the Same ```Step 16``` and Type in Command Line Below and Done!
+  ```
+  php bin/magento cache:flush
+  ```
 ### Requied Download Files
 Note: Please download this files before you start.
 
